@@ -1,4 +1,4 @@
-import java.util.scanner;
+import java.util.Scanner;
 public class OddPosition{
 public static void main(String args[]){
 Scanner s=new Scanner(System.in);
